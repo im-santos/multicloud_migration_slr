@@ -1,10 +1,10 @@
-## CLOUD MANAGEMENT
+## 06-CLOUD_INFRAESTRUCTURE
 
-![Cloud Management](img/category_cloud_management.png)
+![CLOUD INFRAESTRUCTURE](img/category_cloud_infraestructure.png)
 
 
 
 
 |Category code segments                                          | 
 |:--------------------------------------------------------------:|
-|[01-CLOUD_MANAGEMENT.pdf](code_segments/01-CLOUD_MANAGEMENT.pdf)| 
+|[06-CLOUD_INFRAESTRUCTURE.pdf](code_segments/06-CLOUD_INFRAESTRUCTURE.pdf)| 

@@ -1,10 +1,10 @@
-## CLOUD MANAGEMENT
+## MULTI-CLOUD ARCHITECTURE
 
-![Cloud Management](img/category_cloud_management.png)
+![MULTI-CLOUD ARCHITECTURE](img/category_multi_cloud_architecture.png)
 
 
 
 
 |Category code segments                                          | 
 |:--------------------------------------------------------------:|
-|[01-CLOUD_MANAGEMENT.pdf](code_segments/01-CLOUD_MANAGEMENT.pdf)| 
+|[03-MULTI-CLOUD_ARCHITECTURE.pdf](code_segments/03-MULTI-CLOUD_ARCHITECTURE.pdf)| 

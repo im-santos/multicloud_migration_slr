@@ -1,10 +1,10 @@
-## CLOUD MANAGEMENT
+## CLOUD MIGRATION PROCESS
 
-![Cloud Management](img/category_cloud_management.png)
+![05-CLOUD_MIGRATION_PROCESS](img/category_cloud_migration_process.png)
 
 
 
 
 |Category code segments                                          | 
 |:--------------------------------------------------------------:|
-|[01-CLOUD_MANAGEMENT.pdf](code_segments/01-CLOUD_MANAGEMENT.pdf)| 
+|[05-CLOUD_MIGRATION_PROCESS.pdf](code_segments/05-CLOUD_MIGRATION_PROCESS.pdf)| 

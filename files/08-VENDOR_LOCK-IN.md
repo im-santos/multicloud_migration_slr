@@ -1,10 +1,10 @@
-## CLOUD MANAGEMENT
+## VENDOR LOCK-IN
 
-![Cloud Management](img/category_cloud_management.png)
+![VENDOR LOCK-IN](img/category_vendor_lock-in.png)
 
 
 
 
 |Category code segments                                          | 
 |:--------------------------------------------------------------:|
-|[01-CLOUD_MANAGEMENT.pdf](code_segments/01-CLOUD_MANAGEMENT.pdf)| 
+|[08-VENDOR_LOCK-IN.pdf](code_segments/08-VENDOR_LOCK-IN.pdf)| 

@@ -1,10 +1,10 @@
-## CLOUD MANAGEMENT
+## RISK and SECURITY
 
-![Cloud Management](img/category_cloud_management.png)
+![07-RISK_and_SECURITY](img/category_risk_and_security.png)
 
 
 
 
 |Category code segments                                          | 
 |:--------------------------------------------------------------:|
-|[01-CLOUD_MANAGEMENT.pdf](code_segments/01-CLOUD_MANAGEMENT.pdf)| 
+|[07-RISK_and_SECURITY.pdf](code_segments/07-RISK_and_SECURITY.pdf)| 

@@ -1,10 +1,10 @@
-## CLOUD MANAGEMENT
+## CLOUD SERVICE PROVIDERS
 
-![Cloud Management](img/category_cloud_management.png)
+![04-CLOUD_SERVICE_PROVIDERS](img/category_cloud_sevice_providers.png)
 
 
 
 
 |Category code segments                                          | 
 |:--------------------------------------------------------------:|
-|[01-CLOUD_MANAGEMENT.pdf](code_segments/01-CLOUD_MANAGEMENT.pdf)| 
+|[04-CLOUD_SERVICE_PROVIDERS.pdf](code_segments/04-CLOUD_SERVICE_PROVIDERS.pdf)| 
