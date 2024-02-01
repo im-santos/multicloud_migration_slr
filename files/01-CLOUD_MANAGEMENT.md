@@ -1,3 +1,8 @@
+## CLOUD MANAGEMENT
+
+![Cloud Management](files/img/category_cloud_management.png)
 
 
-xfun::embed_file('./code_segments/01-CLOUD_MANAGEMENT.pdf')
+
+
+[Code Segments]('./code_segments/01-CLOUD_MANAGEMENT.pdf')
