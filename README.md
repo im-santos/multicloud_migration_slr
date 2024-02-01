@@ -10,7 +10,7 @@
 
 |  #  | Code                           | Quotations |     %     | Link  | 
 |:---:|:-------------------------------|:----------:|:---------:|:-----:|
-| 01  |CLOUD MANAGEMENT                |  880.00    |  19.32%   |       |
+| 01  |CLOUD MANAGEMENT                |  880.00    |  19.32%   |   [page](files/code_segments/01-CLOUD_MANAGEMENT.pdf)    |
 | 02  |CLOUD-NATIVE ARCHITECTURE       |  812.00    |  17.83%   |       |
 | 03  |MULTI-CLOUD ARCHITECTURE        |  709.00    |  15.57%   |       |
 | 04  |CLOUD SERVICE PROVIDERS         |  653.00    |  14.34%   |       |
