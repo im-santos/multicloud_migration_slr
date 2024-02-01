@@ -5,4 +5,6 @@
 
 
 
-[Code Segments](code_segments/01-CLOUD_MANAGEMENT.pdf)
+|Code Segments  | Link |
+|:-------------:|:-----:|  
+|Category code segments|[code Segments](code_segments/01-CLOUD_MANAGEMENT.pdf)|
